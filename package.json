@@ -1,0 +1,18 @@
+{
+  "name": "avengers-server",
+  "version": "0.0.0",
+  "description": "Este es un servidor de prueba con la tematica de los vengadores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "server",
+    "avengers"
+  ],
+  "author": "Corocottax",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
